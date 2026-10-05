@@ -1,2 +1,15 @@
-# hangpo-workbench-updates
-HangPo quotation workbench update downloads
+# 恆寶旅運報價工作台更新
+
+此倉庫提供工作台程式的版本更新下載。
+
+固定更新資訊網址：
+
+https://github.com/Lavenlii/hangpo-workbench-updates/releases/latest/download/manifest.json
+
+管理員登入工作台後，前往「設定及備份 → 工作台版本及一鍵更新」，保存上述網址，再按「檢查更新」。
+
+工作台會按目前使用的模式下載對應程式：本機版、公司內網版或異地版。安裝前會核對程式檔案並建立資料庫快照。
+
+使用瀏覽器連接同一主機的同事，主機完成更新後重新整理即可。
+
+所有公開更新程式均不附帶使用者資料庫、客戶文件或原始示例 PDF。
